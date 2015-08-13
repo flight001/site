@@ -1,0 +1,5 @@
+open ftp://flight001.ftp:Flight!123@flight001.wdh.com
+mirror -R  /var/www/vhosts/flight001.com/httpdocs/html/export/ /
+exit
+
+
